@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Junyu 👋
+UCSC Computer Science (Class of 2027) • Seeking Software Engineering / Data internships
 
-<!--
-**Leopard31415926/Leopard31415926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Santa Cruz, CA
+- 📫 Email: wingatereed34@gmail.com
+- 💼 GitHub: https://github.com/Leopard31415926
 
-Here are some ideas to get you started:
+### Tech Stack
+- Languages: C/C++, Python, Go
+- Python: pandas, matplotlib
+- Tools: Git/GitHub, Linux/macOS, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Work
+- **Open-source contribution (Excelize-py)**  
+  Merged PR: *Add new function: get_sheet_visible* (xuri/excelize-py#25)  
+  PR link: https://github.com/xuri/excelize-py/pull/25
+
+### What I'm working on
+- Improving my resume + building stronger projects (more testing, cleaner structure, better docs)
